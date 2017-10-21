@@ -1,0 +1,42 @@
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\Arton-DL1\Arton-DL1_Config\Arton-DL_Config\bin\Debug\Q-Config.exe.config
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\Arton-DL1\Arton-DL1_Config\Arton-DL_Config\obj\Debug\Q-Config.exe
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\Arton-DL1\Arton-DL1_Config\Arton-DL_Config\obj\Debug\Q-Config.pdb
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\Arton-DL1\Arton-DL1_Config\Arton-DL_Config\bin\Debug\Q-Config.exe.manifest
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\Arton-DL1\Arton-DL1_Config\Arton-DL_Config\bin\Debug\Q-Config.application
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\Arton-DL1\Arton-DL1_Config\Arton-DL_Config\bin\Debug\Q-Config.exe
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\Arton-DL1\Arton-DL1_Config\Arton-DL_Config\bin\Debug\Q-Config.pdb
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\Arton-DL1\Arton-DL1_Config\Arton-DL_Config\obj\Debug\Arton-DL_Config.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\Arton-DL1\Arton-DL1_Config\Arton-DL_Config\obj\Debug\Q_Config.Form1.resources
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\Arton-DL1\Arton-DL1_Config\Arton-DL_Config\obj\Debug\Q_Config.Properties.Resources.resources
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\Arton-DL1\Arton-DL1_Config\Arton-DL_Config\obj\Debug\Arton-DL_Config.csproj.GenerateResource.Cache
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\Arton-DL1\Arton-DL1_Config\Arton-DL_Config\obj\Debug\Q-Config.TrustInfo.xml
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\Arton-DL1\Arton-DL1_Config\Arton-DL_Config\obj\Debug\Q-Config.exe.manifest
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\Arton-DL1\Arton-DL1_Config\Arton-DL_Config\obj\Debug\Q-Config.application
+e:\_ARTON_PROJ\ARTON-DL3\soft\Arton-DL1_Config\Arton-DL_Config\bin\Debug\Q-Config.exe.config
+e:\_ARTON_PROJ\ARTON-DL3\soft\Arton-DL1_Config\Arton-DL_Config\obj\Debug\Q-Config.exe
+e:\_ARTON_PROJ\ARTON-DL3\soft\Arton-DL1_Config\Arton-DL_Config\obj\Debug\Q-Config.pdb
+e:\_ARTON_PROJ\ARTON-DL3\soft\Arton-DL1_Config\Arton-DL_Config\obj\Debug\Arton-DL_Config.csprojResolveAssemblyReference.cache
+e:\_ARTON_PROJ\ARTON-DL3\soft\Arton-DL1_Config\Arton-DL_Config\obj\Debug\Q_Config.Form1.resources
+e:\_ARTON_PROJ\ARTON-DL3\soft\Arton-DL1_Config\Arton-DL_Config\obj\Debug\Q_Config.Properties.Resources.resources
+e:\_ARTON_PROJ\ARTON-DL3\soft\Arton-DL1_Config\Arton-DL_Config\obj\Debug\Arton-DL_Config.csproj.GenerateResource.Cache
+e:\_ARTON_PROJ\ARTON-DL3\soft\Arton-DL1_Config\Arton-DL_Config\bin\Debug\Q-Config.exe.manifest
+e:\_ARTON_PROJ\ARTON-DL3\soft\Arton-DL1_Config\Arton-DL_Config\bin\Debug\Q-Config.application
+e:\_ARTON_PROJ\ARTON-DL3\soft\Arton-DL1_Config\Arton-DL_Config\bin\Debug\Q-Config.exe
+e:\_ARTON_PROJ\ARTON-DL3\soft\Arton-DL1_Config\Arton-DL_Config\bin\Debug\Q-Config.pdb
+e:\_ARTON_PROJ\ARTON-DL3\soft\Arton-DL1_Config\Arton-DL_Config\obj\Debug\Q-Config.TrustInfo.xml
+e:\_ARTON_PROJ\ARTON-DL3\soft\Arton-DL1_Config\Arton-DL_Config\obj\Debug\Q-Config.exe.manifest
+e:\_ARTON_PROJ\ARTON-DL3\soft\Arton-DL1_Config\Arton-DL_Config\obj\Debug\Q-Config.application
+e:\_ARTON_PROJ\ARTON-DL3\config\Arton-DL1_Config\Arton-DL_Config\bin\Debug\Q-Config.exe.config
+e:\_ARTON_PROJ\ARTON-DL3\config\Arton-DL1_Config\Arton-DL_Config\obj\Debug\Q-Config.exe
+e:\_ARTON_PROJ\ARTON-DL3\config\Arton-DL1_Config\Arton-DL_Config\obj\Debug\Q-Config.pdb
+E:\_ARTON_PROJ\ARTON-DL3\config\Arton-DL1_Config\Arton-DL_Config\bin\Debug\Q-Config.exe.manifest
+E:\_ARTON_PROJ\ARTON-DL3\config\Arton-DL1_Config\Arton-DL_Config\bin\Debug\Q-Config.application
+E:\_ARTON_PROJ\ARTON-DL3\config\Arton-DL1_Config\Arton-DL_Config\bin\Debug\Q-Config.exe
+E:\_ARTON_PROJ\ARTON-DL3\config\Arton-DL1_Config\Arton-DL_Config\bin\Debug\Q-Config.pdb
+E:\_ARTON_PROJ\ARTON-DL3\config\Arton-DL1_Config\Arton-DL_Config\obj\Debug\Arton-DL_Config.csprojResolveAssemblyReference.cache
+E:\_ARTON_PROJ\ARTON-DL3\config\Arton-DL1_Config\Arton-DL_Config\obj\Debug\Q_Config.Form1.resources
+E:\_ARTON_PROJ\ARTON-DL3\config\Arton-DL1_Config\Arton-DL_Config\obj\Debug\Q_Config.Properties.Resources.resources
+E:\_ARTON_PROJ\ARTON-DL3\config\Arton-DL1_Config\Arton-DL_Config\obj\Debug\Arton-DL_Config.csproj.GenerateResource.Cache
+E:\_ARTON_PROJ\ARTON-DL3\config\Arton-DL1_Config\Arton-DL_Config\obj\Debug\Q-Config.TrustInfo.xml
+E:\_ARTON_PROJ\ARTON-DL3\config\Arton-DL1_Config\Arton-DL_Config\obj\Debug\Q-Config.exe.manifest
+E:\_ARTON_PROJ\ARTON-DL3\config\Arton-DL1_Config\Arton-DL_Config\obj\Debug\Q-Config.application

@@ -1,0 +1,17 @@
+c:\users\oleg\documents\visual studio 2012\Projects\Q-Config\Q-Config\bin\Debug\Q-Config.exe.config
+c:\users\oleg\documents\visual studio 2012\Projects\Q-Config\Q-Config\bin\Debug\Q-Config.exe
+c:\users\oleg\documents\visual studio 2012\Projects\Q-Config\Q-Config\bin\Debug\Q-Config.pdb
+c:\users\oleg\documents\visual studio 2012\Projects\Q-Config\Q-Config\obj\Debug\Q_Config.Form1.resources
+c:\users\oleg\documents\visual studio 2012\Projects\Q-Config\Q-Config\obj\Debug\Q_Config.Properties.Resources.resources
+c:\users\oleg\documents\visual studio 2012\Projects\Q-Config\Q-Config\obj\Debug\Q-Config.csproj.GenerateResource.Cache
+c:\users\oleg\documents\visual studio 2012\Projects\Q-Config\Q-Config\obj\Debug\Q-Config.exe
+c:\users\oleg\documents\visual studio 2012\Projects\Q-Config\Q-Config\obj\Debug\Q-Config.pdb
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\Q-Config\Q-Config\bin\Debug\Q-Config.exe.manifest
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\Q-Config\Q-Config\bin\Debug\Q-Config.application
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\Q-Config\Q-Config\obj\Debug\Q-Config.exe.manifest
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\Q-Config\Q-Config\obj\Debug\Q-Config.application
+C:\Users\Oleg\documents\visual studio 2012\Projects\Q-Config\Q-Config\obj\Debug\Q-Config.TrustInfo.xml
+C:\Users\Oleg\documents\visual studio 2012\Projects\Q-Config\Q-Config\obj\Debug\Q-Config.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\QR-Config\Q-Config\bin\Debug\Q-Config.exe.config
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\QR-Config\Q-Config\obj\Debug\Q-Config.exe
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\QR-Config\Q-Config\obj\Debug\Q-Config.pdb
